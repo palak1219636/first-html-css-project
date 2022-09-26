@@ -1,0 +1,73 @@
+body{
+    background-color: #f2f6ff; 
+    margin: 0;   
+    padding: 10px;
+    background-image: url(Pamukkale.jpg);
+}
+.box{
+     font-size: 18px;
+     padding-left:10px;
+     padding-bottom :12px;
+     margin-bottom:36px;
+     border:0;
+     border-bottom:1px solid slategray;
+     width: 100%;
+     outline: none;
+}
+form{
+    background-color:white;
+    text-align: center;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border:1px solid #ccc;
+    box-shadow: 2px 2px 2px #ccc;
+    border-radius: 15px;
+    margin-bottom:10px;
+}
+#headings{
+    color: teal;
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-family:Georgia, serif;
+    text-shadow: 1px 1px 1px black;
+}
+#submit-button{
+    background-color: #0056ff;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-size: 18px;
+    color: white;
+    border:none;
+    border-radius: 5px;
+    
+}
+#input{
+    padding-top: 30px;
+    padding-bottom: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+#footer{
+    background-color: rgb(24, 93, 150);
+    padding: 30px;
+    text-align: center;
+    margin:0%;
+    
+ }
+.text{
+    font-size: 25px;
+    color: rgb(178, 236, 247);
+    padding: 7px;
+}
+a:hover,a:active{
+      background-color: darkcyan;
+      text-decoration: none;
+   }
+a:link, a:visited{
+    color: rgb(233, 179, 179);
+    text-decoration: none;
+}
